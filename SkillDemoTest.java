@@ -5,7 +5,7 @@ public class SkillDemoTest {
     
     @Test
     public void addTest() {
-        assertEquals(1, SkillDemo.add(1, 2));
+        assertEquals(3, SkillDemo.add(1, 2));
     }
 
 }
